@@ -1,0 +1,11 @@
+# ninja log v6
+10	245	7574558815571808	build.ninja	6330d6f13ed44720
+867	1032	7574504940080659	openmp_task.exe	20d80c8ef80e8712
+16	381	7574512761458665	CMakeFiles/openmp_task.dir/main.cpp.obj.ddi	a8a2eaf96d100774
+412	2185	7574512765424380	CMakeFiles/openmp_task.dir/main.cpp.obj	48776d3c89995228
+21	54	7574558419431300	CMakeFiles/openmp_task.dir/CXX.dd	7704d62a264106b1
+21	54	7574558419431300	C:/Users/user/CLionProjects/openmp-task/cmake-build-debug/CMakeFiles/openmp_task.dir/CXXModules.json	7704d62a264106b1
+21	54	7574558419431300	CMakeFiles/openmp_task.dir/main.cpp.obj.modmap	7704d62a264106b1
+12	29	7574558842536422	CMakeFiles/openmp_task.dir/CXX.dd	7704d62a264106b1
+12	29	7574558842536422	C:/Users/user/CLionProjects/openmp-task/cmake-build-debug/CMakeFiles/openmp_task.dir/CXXModules.json	7704d62a264106b1
+12	29	7574558842536422	CMakeFiles/openmp_task.dir/main.cpp.obj.modmap	7704d62a264106b1
